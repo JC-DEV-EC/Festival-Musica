@@ -1,7 +1,7 @@
 # Festival de Música - Techno & EDM Festival
 
 ![Licencia MIT](https://img.shields.io/badge/licencia-MIT-blue.svg)
-![Estado del Proyecto](https://img.shields.io/badge/estado-en%20desarrollo-orange.svg)
+![Estado del Proyecto](https://img.shields.io/badge/estado-finalizado-green.svg)
 ![Versión](https://img.shields.io/badge/versión-1.0.0-brightgreen.svg)
 
 
